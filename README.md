@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hola! Soy Tomás Darquier y estoy finalizando la Licenciatura en Informática. Solo me queda defender de manera oral mi trabajo final de grado para concluir esta etapa que comencé hace 5 años.
 
-<!--
-**TomasDarquier/TomasDarquier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mí 🧑‍💻
+Desde muy chico me entusisasmo el mundo de la informatica y las computadoras, y la inimaginable cantidad de cosas que se puede hacer con una. Me interesa mucho como las cosas trabajan detras de las abstracciones con las que tratamos dia a dia, lo que me llevó a profundizar mis estudios autodidactas en back-end, algo que mantengo hasta hoy. Además, me adentré en el desarrollo de front-end porque, al final... ¿Cómo iba a mostrarle a la gente lo que hago?
 
-Here are some ideas to get you started:
+## Habilidades Técnicas 🛠️
+- **Lenguajes:** Java, JavaScript, Solidity, TypeScript (en proceso...)
+- **Tools & Platforms:** GitHub, Docker, Kubernetes, AWS, DigitalOcean
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyecto Destacado 📚
+- **[Plataforma web Low-Code de Generacion de Microservicios](https://github.com/TomasDarquier/TFG):** Una herramienta que permite crear arquitecturas completas mediante Drag & Drop, generando componentes listos para personalizar con lógica de negocio.
+
+## Contacto 📫
+- 📬 [Email](mailto:tomasdarquier@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tomasdarquier)
