@@ -4,8 +4,12 @@
 Desde muy chico me entusiasmó el mundo de la informática y las computadoras, y la inimaginable cantidad de cosas que se pueden hacer con una. Me interesa mucho cómo las cosas trabajan detrás de las abstracciones con las que tratamos día a día, lo que me llevó a profundizar mis estudios autodidactas en back-end, algo que mantengo hasta hoy. Además, me adentré en el desarrollo de front-end porque, al final... ¿Cómo iba a mostrarle a la gente lo que hago?
 
 ## Habilidades Técnicas 🛠️
+
 - **Lenguajes:** Java, JavaScript, Solidity, TypeScript (en proceso...)
-- **Tools & Platforms:** GitHub, Docker, Kubernetes, AWS, DigitalOcean
+- **Tools & Platforms:** GitHub, Docker, Kubernetes, AWS
+- **Bases de Datos:** PostgreSQL, MySQL, MongoDB, Redis
+- **Contenedores y Orquestación:** Docker, Kubernetes
+- **Seguridad:** OAuth2, JWT, SSL/TLS, Spring Security
 
 ## Proyecto Destacado 📚
 - **[Plataforma web Low-Code de Generacion de Microservicios](https://github.com/TomasDarquier/TFG):** Una herramienta que permite crear arquitecturas completas mediante Drag & Drop, generando componentes listos para personalizar con lógica de negocio.
