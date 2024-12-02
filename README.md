@@ -8,7 +8,6 @@ Desde muy chico me entusiasmó el mundo de la informática y las computadoras, y
 - **Lenguajes:** Java, JavaScript, Solidity, TypeScript (en proceso...)
 - **Tools & Platforms:** GitHub, Docker, Kubernetes, AWS
 - **Bases de Datos:** PostgreSQL, MySQL, MongoDB, Redis
-- **Contenedores y Orquestación:** Docker, Kubernetes
 - **Seguridad:** OAuth2, JWT, SSL/TLS, Spring Security
 
 ## Proyecto Destacado 📚
