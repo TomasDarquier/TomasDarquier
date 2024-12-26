@@ -1,7 +1,7 @@
 👋 Hola! Soy Tomás Darquier y estoy finalizando la Licenciatura en Informática. Solo me queda defender de manera oral mi trabajo final de grado para concluir esta etapa que comencé hace 5 años.
 
 ## Sobre Mí 🧑‍💻
-Desde muy chico me entusiasmó el mundo de la informática y las computadoras, y la inimaginable cantidad de cosas que se pueden hacer con una. Me interesa mucho cómo las cosas trabajan detrás de las abstracciones con las que tratamos día a día, lo que me llevó a profundizar mis estudios autodidactas en back-end, algo que mantengo hasta hoy. Además, me adentré en el desarrollo de front-end porque, al final... ¿Cómo iba a mostrarle a la gente lo que hago?
+Desde muy chico me entusiasmó el mundo de la informática y las computadoras, y la inimaginable cantidad de cosas que se pueden hacer con una computadora. Me interesa mucho cómo las cosas trabajan detrás de las abstracciones con las que tratamos día a día, lo que me llevó a profundizar mis estudios autodidactas en back-end, algo que mantengo hasta hoy. Además, me adentré en el desarrollo de front-end para poder darle acceso al usuario final a todo lo desarrollado.
 
 ## Habilidades Técnicas 🛠️
 
